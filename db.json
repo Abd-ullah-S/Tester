@@ -1,0 +1,144 @@
+{
+  "students": [
+    {
+      "id": "b257",
+      "userName": "hgag",
+      "email": "hgag@gmail.com",
+      "password": "123123"
+    },
+    {
+      "userName": "jdoe",
+      "email": "jdoe@gmail.com",
+      "password": "abc123",
+      "subjects": [
+        {
+          "subjectName": "العلوم",
+          "score": 2,
+          "id": "1825"
+        }
+      ],
+      "id": "b258"
+    },
+    {
+      "id": "b259",
+      "userName": "asmith",
+      "email": "asmith@gmail.com",
+      "password": "pass456"
+    },
+    {
+      "userName": "mbrown",
+      "email": "mbrown@gmail.com",
+      "password": "secure789",
+      "subjects": [
+        {
+          "subjectName": "العلوم",
+          "score": 1,
+          "id": "1825"
+        },
+        {
+          "subjectName": "الرياضيات",
+          "score": 1,
+          "id": "4f72"
+        }
+      ],
+      "id": "b260"
+    },
+    {
+      "id": "b261",
+      "userName": "lwhite",
+      "email": "lwhite@gmail.com",
+      "password": "qwerty123"
+    },
+    {
+      "id": "b262",
+      "userName": "kgreen",
+      "email": "kgreen@gmail.com",
+      "password": "123abc"
+    },
+    {
+      "userName": "Ahmed",
+      "email": "admin@admin.com",
+      "password": "admin@admin.com",
+      "subjects": [
+        {
+          "subjectName": "العلوم",
+          "score": 2,
+          "id": "1825"
+        },
+        {
+          "subjectName": "الرياضيات",
+          "score": 1,
+          "id": "4f72"
+        }
+      ],
+      "id": "2006"
+    },
+    {
+      "userName": "أحمد",
+      "email": "Ahmed@gmail.com",
+      "password": "Ahmed@gmail.com",
+      "subjects": [
+        {
+          "subjectName": "العلوم",
+          "score": 2,
+          "id": "1825"
+        }
+      ],
+      "id": "f775"
+    }
+  ],
+  "doctor": [
+    {
+      "id": "1",
+      "userName": "Dr.Hgag",
+      "email": "admin@admin.com",
+      "password": "admin@admin.com"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "العلوم",
+      "questions": [
+        {
+          "question": "شكل الارض ؟",
+          "answer1": "بيضاوي",
+          "answer2": "دونتس",
+          "answer3": "بيتزا",
+          "answer4": "سلحفاء",
+          "correctAnswer": "بيضاوي"
+        },
+        {
+          "question": "شكل الارض ؟",
+          "answer1": "بيضاوي",
+          "answer2": "دونتس",
+          "answer3": "بيتزا",
+          "answer4": "سلحفاء",
+          "correctAnswer": "بيضاوي"
+        }
+      ],
+      "id": "1825"
+    },
+    {
+      "id": "4f72",
+      "name": "الرياضيات",
+      "questions": [
+        {
+          "question": "1. إذا كانت  2 𝑥 + 5 = 15 2x+5=15، فإن قيمة  𝑥 x هي",
+          "answer1": "4",
+          "answer2": "5",
+          "answer3": "6",
+          "answer4": "9",
+          "correctAnswer": "4"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "userName": "Dr.Hgag",
+      "user_id": "1",
+      "role": "doctor",
+      "id": "1"
+    }
+  ]
+}
